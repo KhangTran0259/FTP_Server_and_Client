@@ -17,9 +17,16 @@ print('The server is ready to receive')
 while 1:
 # Accept a connection ; get client's socket
     connection_Socket, addr = server_Socket.accept()
-
-# Receive whatever the newly connected client has to send
-data = connection_Socket.recv(40)
+    
+    # The temporary buffer
+    temp_Buff = ''
+    while len(data) != 40
+    # Receive whatever the newly connected client has to send
+        temp_Buff = connection_Socket.recv(40)
+    
+    if not tempBuff:
+        break
+        
 print(data)
 
 # Close the socket
