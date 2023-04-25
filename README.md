@@ -5,7 +5,7 @@
 
 ### Group Members
 =======
-Andy Hyunh  
+Andy Huynh ahuynh86@csu.fullterton.edu
 Kirsten Ochoa ochoakirsten@csu.fullerton.edu
 Sean Labitigan seannyboy100@csu.fullerton.edu
 
