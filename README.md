@@ -1,9 +1,10 @@
 ## CPSC 471-01 - Computer Communications
 ### 2023-04-11 (Spring Semester 2023)
 #### FTP_Server_and_Client
-##### CPSC-471 Programing Assignment 1
+#### CPSC-471 Programing Assignment 1
 
 ### Group Members
+=======
 Andy Hyunh  
 Kirsten Ochoa ochoakirsten@csu.fullerton.edu
 
