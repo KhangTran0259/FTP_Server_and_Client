@@ -7,6 +7,7 @@
 =======
 Andy Hyunh  
 Kirsten Ochoa ochoakirsten@csu.fullerton.edu
+Sean Labitigan seannyboy100@csu.fullerton.edu
 
 Project Goal:
   1) To understand the challenges of protocol design.
