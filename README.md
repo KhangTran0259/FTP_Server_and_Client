@@ -4,8 +4,8 @@
 ##### CPSC-471 Programing Assignment 1
 
 ### Group Members
-#### Andy Hyunh
-#### Kirsten Ochoa ochoakirsten@csu.fullerton.edu
+Andy Hyunh
+Kirsten Ochoa ochoakirsten@csu.fullerton.edu
 
 Project Goal:
   1) To understand the challenges of protocol design.
