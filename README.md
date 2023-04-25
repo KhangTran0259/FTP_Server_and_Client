@@ -4,7 +4,7 @@
 ##### CPSC-471 Programing Assignment 1
 
 ### Group Members
-Andy Hyunh
+Andy Hyunh  
 Kirsten Ochoa ochoakirsten@csu.fullerton.edu
 
 Project Goal:
